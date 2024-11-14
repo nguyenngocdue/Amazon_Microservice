@@ -8,8 +8,8 @@ import Link from "next/link";
 import { ProductGetLocal } from "../product-detail/Root";
 
 import { useRouter } from "next/navigation";
-import ButtonAuthen from "@/component/Header/Authen/ButtonAuthen";
-import AuthenEnd from "@/component/Footer/AuthenEnd";
+import ButtonAuthen from "@/components/Header/Authen/ButtonAuthen";
+import AuthenEnd from "@/components/Footer/AuthenEnd";
 import { useSafeLocalStorage } from "../utils/useSafeLocalStorage";
 
 export default function HomeCarts() {
