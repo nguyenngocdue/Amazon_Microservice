@@ -1,1 +1,36 @@
-{}
+{
+  "app/page.tsx -> ../component/Carousel": {
+    "id": "app/page.tsx -> ../component/Carousel",
+    "files": [
+      "static/css/_app-pages-browser_src_component_Carousel_index_tsx.css",
+      "static/chunks/_app-pages-browser_src_component_Carousel_index_tsx.js"
+    ]
+  },
+  "app/page.tsx -> ../component/CarouselSlick": {
+    "id": "app/page.tsx -> ../component/CarouselSlick",
+    "files": [
+      "static/css/_app-pages-browser_src_component_CarouselSlick_index_tsx.css",
+      "static/chunks/_app-pages-browser_src_component_CarouselSlick_index_tsx.js"
+    ]
+  },
+  "app/page.tsx -> ../component/Product": {
+    "id": "app/page.tsx -> ../component/Product",
+    "files": [
+      "static/css/_app-pages-browser_src_component_Product_index_tsx.css",
+      "static/chunks/_app-pages-browser_src_component_Product_index_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/component/Footer/AuthenEnd": {
+    "id": "app/page.tsx -> @/component/Footer/AuthenEnd",
+    "files": [
+      "static/chunks/_app-pages-browser_src_component_Footer_AuthenEnd_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/component/NavbarHeader": {
+    "id": "app/page.tsx -> @/component/NavbarHeader",
+    "files": [
+      "static/css/_app-pages-browser_src_component_NavbarHeader_index_tsx.css",
+      "static/chunks/_app-pages-browser_src_component_NavbarHeader_index_tsx.js"
+    ]
+  }
+}
